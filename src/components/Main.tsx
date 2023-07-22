@@ -77,7 +77,7 @@ const Main: React.FC = () => {
                     onClick={(e) => onSearchSubmit(e)}>Google Search</button>
                 <button 
                     className="bg-slate-100 py-2 px-4 text-sm  rounded hover:border"
-                    onClick={() => router.push('https://www.google.com/doodles')}>I'm Feeling Lucky</button>
+                    onClick={() => router.push('https://www.google.com/doodles')}>I am Feeling Lucky</button>
             </div>
         </div>
     )
